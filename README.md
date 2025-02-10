@@ -34,7 +34,7 @@ pip install pandas numpy scikit-learn matplotlib streamlit
 ## Usage
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/sonar-rock-or-mine-prediction.git
+    git clone https://github.com/DarshanCode2005/sonar-rock-or-mine-prediction.git
     ```
 2. Navigate to the project directory:
     ```bash
